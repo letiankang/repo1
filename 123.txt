@@ -1,4 +1,10 @@
+123123sssssssssss
 123123aaaaaaaaaaa
 123123sssssssssss
+<<<<<<< .mine
 repo1
 this is master
+=======
+repo1
+asasd
+>>>>>>> .theirs
